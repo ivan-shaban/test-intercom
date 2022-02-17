@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test-intercom/static/css/main.073c9b0a.css",
+    "main.js": "/test-intercom/static/js/main.662be89d.js",
+    "static/js/787.497f0d50.chunk.js": "/test-intercom/static/js/787.497f0d50.chunk.js",
+    "static/media/logo.svg": "/test-intercom/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/test-intercom/index.html",
+    "main.073c9b0a.css.map": "/test-intercom/static/css/main.073c9b0a.css.map",
+    "main.662be89d.js.map": "/test-intercom/static/js/main.662be89d.js.map",
+    "787.497f0d50.chunk.js.map": "/test-intercom/static/js/787.497f0d50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.662be89d.js"
+  ]
+}
